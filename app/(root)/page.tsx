@@ -1,5 +1,5 @@
-import HeaderBox from "@/app/components/ui/HeaderBox"
-import TotalBalanceBox from "../components/ui/TotalBalanceBox"
+import HeaderBox from "@/components/HeaderBox"
+import TotalBalanceBox from "@/components/TotalBalanceBox"
 
 const Home = ({accounts}:TotlaBalanceBoxProps) => {
   const loggedIn ={firstname: "Mostapha"}
